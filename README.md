@@ -27,12 +27,12 @@ OUTPUT
 Hello  World 
 ```
 
-##
+
+
+# LOOPS 
 - For loop 
 - While loop 
 - do while 
-
-# LOOPS 
 
 ### `for loop`
 
