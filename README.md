@@ -1,21 +1,15 @@
 <p align="center"><h2>C PLUS PULS</h2></p>
 
                                                   
-                                                            
-                                                            
-            .:^^~~^^:.                                      
-          ^7JYY55555YJ.                                     
-         7YYYYJ!~~!7J^      :JJ?.          7JJ~             
-        !5YYY7              :YYY.          JY5!             
-        JYYYY.          7J??JYYYJ??J! ^J???YYYJ????.        
-        JYYYY:          7????YYY????! ^????YYYJ????.        
-        !5YYY?.     ..      :YYY.          J55!             
-         !YYYYY?77?JY7      :???.          7??^             
-          :!?JYYYYYYJ!                                      
-             ..:::..                                        
-                                                            
-
-
+           .:^^::.                                
+        :7JYYYYYYY^     ...         ...           
+       ~YYYJ~^^^!!     .JY7        .JY7           
+      :YYYY:        :^:^YY?::^. :^:^YY?::^.       
+      ^YYYJ         ?YYYYYYYYY! ?YYYYYYYYY!       
+      .JYYY~     .  ...:Y5?.... ...:Y5?....       
+       ^JYYY?777?J.    .7?!        .7?!           
+        .^7?JJJJ?7.                               
+                                                  
 
 ![White Minimalist Photography Channel Youtube Intro (3)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/b2369218-7342-4dcb-8a92-b7d1bfb0c6ea)
 
