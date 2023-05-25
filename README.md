@@ -26,6 +26,116 @@ OUTPUT
 ```bash
 Hello  World 
 ```
+
+##
+- For loop 
+- While loop 
+- do while 
+
+# LOOPS 
+
+### `for loop`
+
+- syntex 
+```bash 
+for (initialise counter; test counter; increment / decrement counter)
+{
+    //set of statements
+}
+```
+- EXAMPLE 
+```cpp
+#include <iostream>
+using namespace std;
  
+int main()
+{
+    int num = 10;
+    int i;
+    for (i = 0; i < num; i++)
+    {
+        cout << i << " ";
+    }
+    return 0;
+}
+
+```
+- output
+```bash 
+Output :
+0 1 2 3 4 5 6 7 8 9
+```
+
+### `while loop` 
+- SYNTEX 
+
+```cpp
+while (condition test)
+{
+    // Set of statements
+}
+
+```
+- EXAMPLE
+```cpp
+#include <iostream>
+ using namespace std;
+int main() {
+    int n,i=1;
+    cout << "Enter a number: ";
+    cin >> n;
+    
+    while (i <= n) {
+        cout << i << " ";
+        i++;
+    }
+
+    return 0;
+}
+```
+ - output
+```bash 
+Output : \\ n= 5;
+1 2 3 4 5 6 
+```
+### `do while `
+
+- SYNTEX 
+```cpp
+do
+{
+    statements;
+} while (test condition);
+```
+- EXAMPLE 
+```cpp 
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int i = 1, n;
+
+    cout << "Enter the range of numbers: ";
+    cin >> n;
+
+    do
+    {
+        cout << i << endl;
+        i++;
+    } while (i <= n);
+
+    return 0;
+}
+```
+- Output 
+```bash
+Output : \\ n=5;
+Enter the range of numbers: 5
+1
+2
+3
+4
+5
 
 
