@@ -36,7 +36,7 @@ Hello  World
 
 ### `for loop`
 
-- syntex 
+- SYNTEX 
 ```bash 
 for (initialise counter; test counter; increment / decrement counter)
 {
@@ -60,7 +60,7 @@ int main()
 }
 
 ```
-- output
+- OUTPUT
 ```bash 
 Output :
 0 1 2 3 4 5 6 7 8 9
@@ -93,9 +93,10 @@ int main() {
     return 0;
 }
 ```
- - output
+ - OUTPUT
 ```bash 
-Output : \\ n= 5;
+Output : // n= 5;
+Enter a number: 6
 1 2 3 4 5 6 
 ```
 ### `do while `
@@ -130,7 +131,7 @@ int main()
 ```
 - Output 
 ```bash
-Output : \\ n=5;
+Output : // n=5;
 Enter the range of numbers: 5
 1
 2
