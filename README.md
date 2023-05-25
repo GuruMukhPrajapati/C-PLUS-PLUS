@@ -1,21 +1,19 @@
 <p align="center"><h2>C PLUS PULS</h2></p>
 
-
-                     .:^~~!!!!!~^:..
-                  .~?JYYYYYYYYYYYYYJ?.
-                :7YYYYYYYYYYYYYYYYY5!           .....                   .....
-               ~YYYYYYYYY?7!!!7?JYY7           .JYJJY~                 .JYJJY~
-              ~YYYYYYYY7.        .^.           .YYYY5!                 .YYYY5!
-             .YYYYYYYY!                        .YYYYY~                 .YYYYY~
-             ~YYYYYYYJ.                 ^!!!!!~!YYYYY?~!!!!!!.  ^!!!!!!!YYYYY?~!!!!!!.
-             !YYYYYYY?                  ?5YYYY5YYYYYYY5YYYY55:  ?5YYYY5YYYYYYY5YYYY5Y:
-             !YYYYYYYJ                  ?YYYYYYYYYYYYYYYYYYYY:  ?YYYYYYYYYYYYYYYYYYYY:
-             ^YYYYYYYY^                 .......:YYYYY!.......   .......:YYYYY!.......
-              ?YYYYYYYJ^           .           .YYYYY~                 .YYYYY~
-              .JYYYYYYYY?!^^^^^~!7JJ.          .YYYY5!                 .YYYY5!
-               .7YYYYYYYYYYYYYYYYYYY.          .!!!!!:                 .!!!!!:
-                 :!JYYYYYYYYYYYYYYYY.
-                    :^!7???????7!~^:
+                                                  
+                                                            
+                                                            
+            .:^^~~^^:.                                      
+          ^7JYY55555YJ.                                     
+         7YYYYJ!~~!7J^      :JJ?.          7JJ~             
+        !5YYY7              :YYY.          JY5!             
+        JYYYY.          7J??JYYYJ??J! ^J???YYYJ????.        
+        JYYYY:          7????YYY????! ^????YYYJ????.        
+        !5YYY?.     ..      :YYY.          J55!             
+         !YYYYY?77?JY7      :???.          7??^             
+          :!?JYYYYYYJ!                                      
+             ..:::..                                        
+                                                            
 
 
 
