@@ -18,7 +18,7 @@
 - [@GuruMukhPrajapati](https://github.com/GuruMukhPrajapati)
 
 # WHAT YOU GET FORM THIS GITHUB [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)  
-[![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)](https://en.cppreference.com/)
+
 - ALL BASIC CODE OF C++ 
 - WITH OUTPUT 
 - FOR EDUCATION PORPUSE ONLY 
