@@ -155,5 +155,121 @@ Enter the range of numbers: 5
 3
 4
 5
+```
+# FUNCTION
+
+### `sum of two number using function` 
+
+- CODE
+``` bash
+#include<iostream>
+using namespace std;
+int sum(int a ,int b){
+    int c=a+b;
+    return c;
+}
+int main(){
+    int num1,num2;
+    cout<<"enter the first value"<<endl;
+    cin>>num1;
+    cout<<"enter the second value"<<endl;
+    cin>>num2;
+    cout<<"the result is : 56"<<sum(num1,num2)<<endl;    
+    return 0;
+
+} 
+```
+- OUTPUT
+```bash
+enter the first value
+56
+enter the second value
+10
+the result is : 66
+```
+
+### `function calling `
+- CODE WITH EXPANATION
+```bash
+  #include<iostream>
+using namespace std;
+
+int sum(int a, int b){
+    int c = a + b;
+    return c;
+}
+
+// This will not swap a and b
+void swap(int a, int b){ //temp a b
+    int temp = a;        //4   4  5   
+    a = b;               //4   5  5
+    b = temp;            //4   5  4 
+}
+
+// Call by reference using pointers
+void swapPointer(int* a, int* b){ //temp a b
+    int temp = *a;          //4   4  5   
+    *a = *b;               //4   5  5
+    *b = temp;            //4   5  4 
+}
+
+// Call by reference using C++ reference Variables
+// int & 
+void swapReferenceVar(int &a, int &b){ //temp a b
+    int temp = a;          //4   4  5   
+    a = b;               //4   5  5
+    b = temp;            //4   5  4 
+    // return a;
+}
+
+int main(){
+    int x =4, y=5;
+    // cout<<"The sum of 4 and 5 is "<<sum(a, b);
+    cout<<"The value of x is "<<x<<" and the value of y is "<<y<<endl;
+    // swap(x, y); // This will not swap a and b
+    // swapPointer(&x, &y); //This will swap a and b using pointer reference
+    swapReferenceVar(x, y); //This will swap a and b using reference variables
+    // swapReferenceVar(x, y) = 766; //This will swap a and b using reference variables
+    cout<<"The value of x is "<<x<<" and the value of y is "<<y<<endl; 
+    return 0;
+}
+```
+- OUTPUT
+```bash
+
+The value of x is 4 and the value of y is 5
+The value of x is 5 and the value of y is 4
+```
+### `fuction overloding`
+- CODE
+```bash
+#include<iostream>
+using namespace std;
+int sum(int a, int b){
+    int c=a+b;
+    return c;
+}
+int sum(int a, int b , int c){
+    return(a+b+c);
+}
+/*int volume(float a,int r){
+    return(3.14*r*r);
+}
+int area(float l, float b){
+    return(l*b);
+}*/
+int main(){
+    cout<<"result of sum --> "<<sum(10,20)<<endl;
+    cout<<"result of sum three numbers --> "<<sum(10,20,10)<<endl;
+   // cout<<"result of volume --> "<<volume(2,20)<<endl;
+    //cout<<"result of area -->"<<area(10,20)<<endl;
+
+}
+```
+- OUTPUT
+```bash
+result of sum --> 30
+result of sum three numbers --> 40
+```
 
 
