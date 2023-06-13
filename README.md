@@ -156,6 +156,60 @@ Enter the range of numbers: 5
 4
 5
 ```
+# UNION  
+### `basic example in short`
+- CODE
+```bash
+#include<iostream>
+using namespace std;
+union magic
+{
+    int age;
+    float rice;
+    char name;
+}; 
+int main(){
+    union magic guru;
+    guru.age =34;
+   // guru.rice=495.56;
+    cout<<"the value of guru age is :"<<guru.age<<endl;
+    //cout<<"the value of guru rice is :"<<guru.rice<<endl;
+    
+}
+```
+- OUTPUT
+```bash
+the value of guru age is :34
+```
+### `union example 2 `
+- CODE
+```bash
+  #include <iostream>
+#include <string.h>
+using namespace std;
+union Employee {
+int emp_id;
+char emp_name[30];
+float salary;
+}info;
+int main(){
+info.emp_id = 34;
+strcpy( info.emp_name, "Raj Biradar");
+info.salary = 20000.00;
+cout<<"Employee id is : "<<info.emp_id<<endl;
+cout<<"Employee name is : "<<info.emp_name<<endl;
+cout<<"Employee salary is : "<<info.salary<<endl;
+return 0;
+}
+```
+- OUTPUT
+```bash
+Employee id is : 1184645120
+Employee name is :
+Employee salary is : 20000
+```
+
+ 
 # FUNCTION
 
 ### `sum of two number using function` 
