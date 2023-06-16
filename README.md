@@ -11,7 +11,7 @@
         .^7?JJJJ?7.                               
                                                   
 
-![White Minimalist Photography Channel Youtube Intro (3)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/b2369218-7342-4dcb-8a92-b7d1bfb0c6ea)
+![White Minimalist Photography Channel Youtube Intro](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/2e450cad-c55e-4d67-85c1-f293d17434b4)
 
 ## AUTHORS <img src="https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/ad46c3da-03b0-4c9e-88c3-e00c85c74ae5" alt="Logo" width="30px">
 
