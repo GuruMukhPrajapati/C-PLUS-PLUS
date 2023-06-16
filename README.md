@@ -13,9 +13,10 @@
 
 ![White Minimalist Photography Channel Youtube Intro (3)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/b2369218-7342-4dcb-8a92-b7d1bfb0c6ea)
 
-## Authors <img src="https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/ad46c3da-03b0-4c9e-88c3-e00c85c74ae5" alt="Logo" width="30px">
+## AUTHORS <img src="https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/ad46c3da-03b0-4c9e-88c3-e00c85c74ae5" alt="Logo" width="30px">
 
 - [@GuruMukhPrajapati](https://github.com/GuruMukhPrajapati)
+- [@Mansi Chanal](https://github.com/Mansichanal663)
 
 # WHAT YOU GET FORM THIS GITHUB [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)  
 
