@@ -16,8 +16,8 @@
 ## AUTHORS <img src="https://github.com/GuruMukhPrajapati/C-PLUS-PLUS/assets/117162170/ad46c3da-03b0-4c9e-88c3-e00c85c74ae5" alt="Logo" width="30px">
 
 - [@GuruMukhPrajapati](https://github.com/GuruMukhPrajapati)
-- [@Mansi Chanal](https://github.com/Mansichanal663)
-
+<!-- [@Mansi Chanal](https://github.com/Mansichanal663)
+-->
 # WHAT YOU GET FORM THIS GITHUB [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)  
 
 - ALL BASIC CODE OF C++ 
